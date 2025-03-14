@@ -85,6 +85,7 @@ p{
 	margin-left: 10px;
 	font-size: 25px;
 	cursor: pointer;
+	text-align: center;
 }
 
 @media (max-width: 1200px) {
